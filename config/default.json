@@ -1,0 +1,8 @@
+{
+    "dbConfig": {
+        "port" : "2885",
+        "host" : "127.0.0.1",
+        "user" : "multichainrpc",
+        "pass" : "ALpQCXR58PvvoW8DuYXXYduQYFMkQrMNaCF9Cf6aFaLWs"
+      }
+}
