@@ -18,8 +18,13 @@
   "homepage": "https://github.com/sandhyaParkar/Notepad-app#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "config": "^3.3.1",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
-    "multichain-node": "^2.2.0-version1.0.4"
+    "multichain-node": "^2.2.0-version1.0.4",
+    "rpqbarraylist": "^1.0.6",
+    "underscore": "^1.11.0",
+    "uniqid": "^5.2.0",
+    "uniquid": "^1.1.4"
   }
 }

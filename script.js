@@ -33,7 +33,7 @@ app.post("/addNotes", function (req, res) {
     "id" :userNote.id,
     "data": userNote.body
   }
-  addUserNote.addNotes(id,value)
+  addUserNote.addNotes(userNote.id,value)
   .then(function(result){
     callback("", result);
 }).catch(function(err){
